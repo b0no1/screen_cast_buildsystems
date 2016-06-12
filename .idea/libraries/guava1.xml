@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="guava1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/guava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/truth.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
